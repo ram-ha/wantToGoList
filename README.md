@@ -1,3 +1,9 @@
+# what I want to go country List
+
+react + typeScript + styled-components + recoil + react-hook-form
+
+-----------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
